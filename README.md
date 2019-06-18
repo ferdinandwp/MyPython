@@ -55,8 +55,8 @@ Learning vs Execution: 20:80
 
 -----
 ### Tools
-RDBMS: MySQL, ODBC, Access DB, Oracle, Project API </br>
-Data: Numpy, Pandas, Plotly, sqlalchemy </br>
-Web: Apache, Flask, HTML/CSS </br>
-MS Office: Excel, Access, Power Point, Visio, SharePoint, Power BI, Forms, Teams, MS 365, VBA  </br>
+RDBMS:MySQL, ODBC, Access DB, Oracle, Project API </br>
+Data:Numpy, Pandas, Plotly, sqlalchemy </br>
+Web:Apache, Flask, HTML/CSS </br>
+MS Office:Excel, Access, Power Point, Visio, SharePoint, Power BI, Forms, Teams, MS 365, VBA  </br>
 -----
