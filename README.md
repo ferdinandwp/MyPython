@@ -36,7 +36,7 @@ Learning vs Execution: 70:30
 - Basic programming task 
 
 ### 60 days
-Learning vs Execution: 60:40
+Learning vs Execution: 40:60
 - Support on RDBMS development
 - Develop processes
 - Support on system deployment
