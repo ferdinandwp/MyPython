@@ -10,7 +10,7 @@
     - Jr. Mat. Eng. 3 mo (May 2018-July 2018)
     - Operations & Development Analyst (Sept 2018 - Present)
 
-- Previously worked at oil & gas (Jan - Aug 2015) & ADGT Analysis(Fall 2016)
+- Previously worked at oil & gas (Jan - Aug 2015) & ADGT Analysis (Fall 2016)
 
 ### Interest
 - Big Data Analytics, System Development, Process Implementation 
